@@ -101,6 +101,4 @@ for student, avg in average_per_student.items():
 print("\nAverage grade per subject:")
 for subject, avg in average_per_subject.items():
     print(f"{subject}: {avg:.2f}")
-#extra text for the test
-for x in range(1,10):
-    print(x)
+
